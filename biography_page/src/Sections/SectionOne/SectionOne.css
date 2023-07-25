@@ -104,19 +104,28 @@ color:#e4bca6;
       color:rgb(157, 149, 149);
     width: 15rem;
     }
-}
+      
+      .sectionOne-main-child > p:first-child {
+    font-size: 1.4rem;
+     width: 15rem;
+     margin:3rem auto 18rem ;
+}  
+}  
+   .sectionOne-main-child > p:first-child + p {
+    font-size: 1.4rem;
+     width: 17rem;
+     
+}  
+
 
     @media only screen and (max-width: 500px) {
         
   
       .sectionOne-main-child > p:first-child {
     font-size: 1.3rem;
-     width: 15rem;
-     margin:3rem auto 15rem ;
 }  
    .sectionOne-main-child > p:first-child + p {
     font-size: 1.3rem;
-     width: 15rem;
 }  
 
 }
