@@ -1,0 +1,8 @@
+{
+  "name": "biography_page",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Oddisy/biography_page.git",
+  "author": "Oddisy <odunayoogunleye200@gmail.com>",
+  "license": "MIT"
+}

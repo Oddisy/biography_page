@@ -1,0 +1,14 @@
+
+.clubCareer{
+    padding:3rem;
+      background-image: linear-gradient(rgb(11, 10, 10), rgb(53, 137, 179));
+}
+
+.clubCareer > h2,h3{
+    color:white;
+}
+.clubCareer-bottom {
+    padding:3rem;
+      background-image: linear-gradient(rgb(53, 137, 179),  rgb(11, 10, 10));
+
+}

@@ -1,0 +1,23 @@
+*{
+  margin:0px;
+  padding:0px;
+}
+.App {
+  background-color: #000000;
+  height:180rem;
+  text-align: center;
+}
+  
+@media only screen and (max-width: 1350px) {
+
+.App {
+  background-color: #000000;
+  height:280rem;
+  text-align: center;
+}
+}
+
+
+
+
+/*  */
