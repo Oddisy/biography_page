@@ -39,7 +39,7 @@
 .cardOne:hover {
   height: 36rem;
   opacity: 10;
-  transition-duration: 0.5s;
+  transition-duration: 1s;
   transition-timing-function: linear;
   padding-top: 27rem;
 }
@@ -65,7 +65,7 @@
 .cardTwo:hover {
   height: 36rem;
   opacity: 10;
-  transition-duration: 0.5s;
+  transition-duration: 1s;
   transition-timing-function: linear;
   padding-top: 21rem;
   font-weight: 700;
@@ -83,7 +83,7 @@
 .cardThree:hover {
   height: 36rem;
   opacity: 10;
-  transition-duration: 0.5s;
+  transition-duration: 1s;
   transition-timing-function: linear;
   padding-top: 27rem;
 }
@@ -95,7 +95,7 @@
 .cardFour:hover {
   height: 36rem;
   opacity: 10;
-  transition-duration: 0.5s;
+  transition-duration: 1s;
   transition-timing-function: linear;
   padding-top: 27rem;
 }
